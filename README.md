@@ -9,4 +9,5 @@ This repository serves to store my own progress.
 
 ## TODO
 
-- [ ] [LeetCode 75](https://leetcode.com/studyplan/leetcode-75)
+- [ ] [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+- [ ] [LeetCode 150](https://leetcode.com/studyplan/top-interview-150/)
